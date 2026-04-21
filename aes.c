@@ -34,7 +34,7 @@ int encrypt(unsigned char *plaintext, int plaintext_len, unsigned char *key, uns
 int main() {
     unsigned char *key = (unsigned char *)"0123456789012345";
     
-    unsigned char *plaintext = (unsigned char *)"CyberSecurity Lab";
+    unsigned char *plaintext = (unsigned char *)"banichka";
     unsigned char ciphertext[128];
     
     printf("Original Text: %s\n", plaintext);
@@ -47,5 +47,5 @@ int main() {
     }
     printf("\n");
 
-    return 0;
+    return EXIT_SUCCESS;
 }
