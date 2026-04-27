@@ -1,0 +1,3 @@
+root:$6$salt$wEbfXMDHF7BOJOkh4pAijLgLjADTajEE5YG6XQAaKsMTmuuKgc08rY6ZcHIV8WqP1uKlSestqPavuCoyAIj1r0
+alice:$6$salt$7PXWnHTsTMXzlf9gxFI7b3wPc2v5fBrRHlMlmQQ4HMUoUWbOIfEiuGYXxWwpQYW6.1fTRyuCquk.4L3n9Td6C1
+bob:$6$salt$NPVl6xirhCf5FhQrIzdxQX6xj9PQOklYDcEJNecS.bfcoWKVCo5o/Jin4EjY0RDNHs/pOehzhlD9nKiRNN9hr1

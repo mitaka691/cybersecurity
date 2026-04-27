@@ -1,0 +1,11 @@
+admin
+123456
+password
+qwerty
+football
+letmein
+welcome
+dragon
+monkey
+abc123
+secret123
